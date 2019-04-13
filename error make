@@ -1,0 +1,130 @@
+osboxes@osboxes:~/Downloads/pyflag$ sudo make
+[sudo] password for osboxes: 
+Making all in src
+make[1]: Entering directory `/home/osboxes/Downloads/pyflag/src'
+Making all in lib
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/lib'
+Making all in .
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/lib'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/lib'
+Making all in pyewf
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/lib/pyewf'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/lib/pyewf'
+Making all in pyaff
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/lib/pyaff'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/lib/pyaff'
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/lib'
+Making all in mailtools
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/mailtools'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/mailtools'
+Making all in indextools_ng
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/indextools_ng'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/indextools_ng'
+Making all in network
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/network'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/network'
+Making all in filesystems
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems'
+Making all in sleuthkit
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit'
+Making all in sleuthkit-2.52
+make[4]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52'
+Making all in tsk
+make[5]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+make  all-recursive
+make[6]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+Making all in base
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/base'
+make[7]: Nothing to be done for `all'.
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/base'
+Making all in img
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/img'
+make[7]: Nothing to be done for `all'.
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/img'
+Making all in vs
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/vs'
+make[7]: Nothing to be done for `all'.
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/vs'
+Making all in fs
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/fs'
+make[7]: Nothing to be done for `all'.
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/fs'
+Making all in hashdb
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/hashdb'
+make[7]: Nothing to be done for `all'.
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk/hashdb'
+make[7]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+make[7]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+make[6]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+make[5]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52/tsk'
+make[5]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52'
+make[4]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/sleuthkit-2.52'
+Making all in python
+make[4]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/python'
+make[4]: Nothing to be done for `all'.
+make[4]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit/python'
+make[4]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit'
+make[4]: Nothing to be done for `all-am'.
+make[4]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit'
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/sleuthkit'
+Making all in magic
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems/magic'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems/magic'
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/filesystems'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems'
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/filesystems'
+Making all in include
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/include'
+make  all-recursive
+make[3]: Entering directory `/home/osboxes/Downloads/pyflag/src/include'
+Making all in crypto
+make[4]: Entering directory `/home/osboxes/Downloads/pyflag/src/include/crypto'
+make[4]: Nothing to be done for `all'.
+make[4]: Leaving directory `/home/osboxes/Downloads/pyflag/src/include/crypto'
+make[4]: Entering directory `/home/osboxes/Downloads/pyflag/src/include'
+make[4]: Leaving directory `/home/osboxes/Downloads/pyflag/src/include'
+make[3]: Leaving directory `/home/osboxes/Downloads/pyflag/src/include'
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/include'
+Making all in pyflag
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/pyflag'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/pyflag'
+Making all in mmedia
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/mmedia'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/mmedia'
+Making all in distorm
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/distorm'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/distorm'
+Making all in regtools
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src/regtools'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src/regtools'
+make[2]: Entering directory `/home/osboxes/Downloads/pyflag/src'
+make[2]: Nothing to be done for `all-am'.
+make[2]: Leaving directory `/home/osboxes/Downloads/pyflag/src'
+make[1]: Leaving directory `/home/osboxes/Downloads/pyflag/src'
+Making all in debian
+make[1]: Entering directory `/home/osboxes/Downloads/pyflag/debian'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/home/osboxes/Downloads/pyflag/debian'
+make[1]: Entering directory `/home/osboxes/Downloads/pyflag'
+echo "<html><body><pre>" > images/changelog.html
+cat _darcs/inventory >> images/changelog.html || hg log >> images/changelog.html
+cat: _darcs/inventory: No such file or directory
+/bin/bash: hg: command not found
+make[1]: *** [changelog] Error 127
+make[1]: Leaving directory `/home/osboxes/Downloads/pyflag'
+make: *** [all-recursive] Error 1
+osboxes@osboxes:~/Downloads/pyflag$
